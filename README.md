@@ -23,5 +23,7 @@ After download you open the project in your IDE and open your terminal. Then for
 
 ## Server Side repository link:
 
--Frontend repository Link: - [Grocery-House Repository](https://github.com/Ahsan-Ullah1871/grocery-house)
+-Frontend repository Link: - [Grocery-House Repository](https://github.com/Tanjin9185/Grocery-client)
+
+# Grocery-server
 # Grocery-server
